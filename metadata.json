@@ -1,0 +1,6 @@
+{
+  "name": "Dream Estate 3D — Interactive Luxury Architectural Visualizer",
+  "description": "Explore a bespoke 6-Bedroom, 5-Bathroom, 3-Garage 5-acre luxury sanctuary in real-time 3D. Inspect custom architectural wings, switch finishes, seasons, weather, and take a first-person walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
